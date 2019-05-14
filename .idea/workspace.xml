@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="94a054fe-da1e-4da0-97f3-12dd3937b645" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SmartEMS-109080AA-7A8C-4930-ABDF-A950533AB4DB.ipa" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SmartEMS-1508CF5E-827F-4320-A5EF-0B69FCEFA329.ipa" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SmartEMS-1D27AD12-1B30-4813-AB42-3C236CC92748.ipa" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SmartEMS-255A8F23-D8B3-4AFA-A407-793452913AFC.ipa" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SmartEMS-4A36B47C-43BC-42EF-B679-ED8CAF680D98.ipa" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SmartEMS-B6241EBC-6F68-46FE-BEBF-DD8D636CC27D.ipa" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SmartEMS-E6357685-28A2-4DE4-9305-E45CF1C45377.ipa" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SmartEMS.ipa" beforeDir="false" afterPath="$PROJECT_DIR$/SmartEMS.ipa" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -24,7 +15,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="135">
@@ -36,11 +27,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+            <state relative-caret-position="30">
+              <caret line="2" column="88" selection-start-line="2" selection-start-column="88" selection-end-line="2" selection-end-column="88" />
             </state>
           </provider>
         </entry>
@@ -65,8 +56,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/index.js" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/index.js" />
       </list>
     </option>
   </component>
@@ -135,12 +126,12 @@
       <updated>1557768862791</updated>
       <workItem from="1557768864733" duration="1153000" />
       <workItem from="1557770540350" duration="1197000" />
-      <workItem from="1557839450554" duration="397000" />
+      <workItem from="1557839450554" duration="569000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2747000" />
+    <option name="totallyTimeSpent" value="2919000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="2561" y="23" width="2560" height="1057" extended-state="0" />
@@ -148,7 +139,7 @@
     <layout>
       <window_info id="Project Explorer" />
       <window_info id="Job Explorer" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20795588" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20795588" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="DB Browser" order="2" />
       <window_info id="npm" order="3" side_tool="true" />
@@ -164,7 +155,7 @@
       <window_info anchor="bottom" id="DB Execution Console" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32953367" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32953367" />
       <window_info anchor="bottom" id="TypeScript" order="11" />
       <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -176,13 +167,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/manifest.plist">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -193,6 +177,13 @@
           <folding>
             <element signature="n#style#0;n#button#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="88" selection-start-line="2" selection-start-column="88" selection-end-line="2" selection-end-column="88" />
         </state>
       </provider>
     </entry>
