@@ -1,0 +1,8 @@
+POST https://smartems911.com:2059/ClientTerminal/GetEmergencyClient?email=daniluk.devel@gmail.com
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-05-20T112705.200.json
+
+###
+
