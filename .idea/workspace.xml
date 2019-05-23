@@ -2,8 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="94a054fe-da1e-4da0-97f3-12dd3937b645" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/SmartEMS-8009E4FF-A008-4237-A538-8AE2FA72E4A1.ipa" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SmartEMS-99EBF4D7-FCB2-46B3-A9BB-EB9A45273FC7.ipa" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SmartEMS-6698DEDC-B8A1-4625-A808-AEF08C520646.ipa" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SmartEMS-6A4E4518-4FAC-43CC-B21D-64950DA43BAA.ipa" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SmartEMS-ABC9E18A-1E9D-4D3D-BCAB-DE182A3E5B32.ipa" beforeDir="false" afterPath="$PROJECT_DIR$/SmartEMS-B4C6DD9A-89E0-4A41-B1A9-7DE89FEE139A.ipa" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SmartEMS-B5CE0000-05D4-4864-AAAA-DC7164E6CE28.ipa" beforeDir="false" afterPath="$PROJECT_DIR$/SmartEMS-D2F99BFD-5080-4476-9EB0-751242B8C87F.ipa" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SmartEMS-E5C560F0-A085-47EC-8429-823A717F4FED.ipa" beforeDir="false" afterPath="$PROJECT_DIR$/SmartEMS-913622AD-365D-48CE-803D-F7F047DAE124.ipa" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SmartEMS-EC5CA91C-454B-4294-8A71-C8E4232A63A7.ipa" beforeDir="false" afterPath="$PROJECT_DIR$/SmartEMS-0D355F4A-B39A-4A26-AAB9-0612A4E73B5A.ipa" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SmartEMS-EE0286B4-1D7A-408B-9968-E2856EF909D6.ipa" beforeDir="false" afterPath="$PROJECT_DIR$/SmartEMS-D4AA0ED4-9B96-4704-AD50-3C1DAE0EC768.ipa" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SmartEMS.ipa" beforeDir="false" afterPath="$PROJECT_DIR$/SmartEMS.ipa" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/manifest.plist" beforeDir="false" afterPath="$PROJECT_DIR$/manifest.plist" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -64,10 +75,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="2560" />
     <option name="y" value="23" />
-    <option name="width" value="1920" />
-    <option name="height" value="1057" />
+    <option name="width" value="2560" />
+    <option name="height" value="1364" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -165,18 +175,19 @@
       <workItem from="1557839450554" duration="866000" />
       <workItem from="1557927666775" duration="319000" />
       <workItem from="1558104935048" duration="2104000" />
-      <workItem from="1558534665634" duration="12000" />
+      <workItem from="1558534665634" duration="114000" />
+      <workItem from="1558622451521" duration="98000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5651000" />
+    <option name="totallyTimeSpent" value="5851000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="2560" y="23" width="1920" height="1057" extended-state="6" />
+    <frame x="0" y="23" width="2560" height="1364" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27804106" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20795588" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="DB Browser" order="2" />
       <window_info id="npm" order="3" side_tool="true" />
@@ -193,7 +204,7 @@
       <window_info anchor="bottom" id="DB Execution Console" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32953367" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.25550315" />
       <window_info anchor="bottom" id="TypeScript" order="11" />
       <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
       <window_info anchor="bottom" id="Console" order="13" />
