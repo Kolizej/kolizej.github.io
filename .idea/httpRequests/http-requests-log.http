@@ -1,3 +1,202 @@
+POST https://smartems911.com:2059/ApiClient/UpdateFirstName
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+< /Users/kolizej/Downloads/alex/login.json
+
+<> 2019-05-31T033942.200.json
+
+###
+
+POST https://smartems911.com:2059/ApiClient/UpdateFirstName
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYmYiOjE1NTkzMDU2ODUsImV4cCI6MTU1OTM0ODg4NSwiaWF0IjoxNTU5MzA1Njg1fQ.LS9DlHol9JX7xfimqoYZwFUH8iJLYh3mI_DjVzYRjuA
+
+< /Users/kolizej/Downloads/alex/login.json
+
+<> 2019-05-31T033041.302.html
+
+###
+
+POST https://smartems911.com:2059/ApiClient/UpdateFirstName
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+Authorization: "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYmYiOjE1NTkzMDU2ODUsImV4cCI6MTU1OTM0ODg4NSwiaWF0IjoxNTU5MzA1Njg1fQ.LS9DlHol9JX7xfimqoYZwFUH8iJLYh3mI_DjVzYRjuA"
+
+< /Users/kolizej/Downloads/alex/login.json
+
+<> 2019-05-31T032821.302.html
+
+###
+
+POST https://smartems911.com:2059/ApiClient/Login
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+< /Users/kolizej/Downloads/alex/login.json
+
+<> 2019-05-31T032805.200.json
+
+###
+
+POST https://smartems911.com:2059/ApiClient/Login
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+< /Users/kolizej/Downloads/alex/login.json
+
+<> 2019-05-31T025326.200.json
+
+###
+
+POST https://smartems911.com:2059/ApiClient/Login
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+< /Users/kolizej/Downloads/alex/login.json
+
+<> 2019-05-31T024423.500.html
+
+###
+
+POST https://smartems911.com:2059/ApiClient/Login
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+< /Users/kolizej/Downloads/alex/login.json
+
+<> 2019-05-31T024323.500.html
+
+###
+
+POST https://smartems911.com:2059/ApiClient/Login
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+< /Users/kolizej/Downloads/login.json
+
+<> 2019-05-30T053425.200.json
+
+###
+
+POST https://smartems911.com:2059/ApiClient/Login
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+< /Users/kolizej/Downloads/login.json
+
+<> 2019-05-30T053301.200.json
+
+###
+
+POST https://smartems911.com:2059/ApiClient/CreateClient
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+< /Users/kolizej/Downloads/client.json
+
+<> 2019-05-30T052805.200.json
+
+###
+
+POST https://smartems911.com:2059/ApiClient/CreateClient
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+< /Users/kolizej/Downloads/client.json
+
+<> 2019-05-30T014701.200.json
+
+###
+
+POST https://smartems911.com:2059/ApiClient/CreateClient
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+< /Users/kolizej/Downloads/client.json
+
+<> 2019-05-30T014320.200.json
+
+###
+
+POST https://smartems911.com:2059/ApiClient/CreateClient
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+< /Users/kolizej/Downloads/client.json
+
+<> 2019-05-30T014104.200.json
+
+###
+
+POST https://smartems911.com:2059/ApiClient/CreateClient
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+< /Users/kolizej/Downloads/client.json
+
+<> 2019-05-30T013824.200.json
+
+###
+
+POST https://smartems911.com:2059/ApiClient/CreateClient
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+< /Users/kolizej/Downloads/client.json
+
+<> 2019-05-30T013720.200.json
+
+###
+
+POST https://smartems911.com:2059/ApiClient/Login
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+< /Users/kolizej/Downloads/login.json
+
+<> 2019-05-30T115249.200.json
+
+###
+
+POST https://smartems911.com:2059/ApiClient/Login
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+< /Users/kolizej/Downloads/login.json
+
+<> 2019-05-30T115127.200.json
+
+###
+
+POST https://smartems911.com:2059/ApiClient/Login
+Accept: */*
+Cache-Control: no-cache
+
+{     EmailAddress: 'daniluk.devel@gmail.com',     Password: 'fab64036a9210bd6c0a7ad16d1caeacb' }
+
+<> 2019-05-30T114628.200.json
+
+###
+
 POST https://smartems911.com:2059/ClientTerminal/GetEmergencyClient?email=daniluk.devel@gmail.com
 Accept: */*
 Cache-Control: no-cache

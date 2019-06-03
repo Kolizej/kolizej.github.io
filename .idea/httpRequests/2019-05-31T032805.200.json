@@ -1,0 +1,8 @@
+{
+  "code": 200,
+  "message": "",
+  "Object": {
+    "ClientId": "5abdf602-bc45-40ef-90ff-8d2be0963987",
+    "Token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYmYiOjE1NTkzMDU2ODUsImV4cCI6MTU1OTM0ODg4NSwiaWF0IjoxNTU5MzA1Njg1fQ.LS9DlHol9JX7xfimqoYZwFUH8iJLYh3mI_DjVzYRjuA"
+  }
+}

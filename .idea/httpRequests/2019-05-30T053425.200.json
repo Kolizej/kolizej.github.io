@@ -1,0 +1,4 @@
+{
+  "code": 400,
+  "message": "Client is not exist or wrong password"
+}
