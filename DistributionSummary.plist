@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eTransMe.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>4DA51912614B5B6DB59F4718C1AD43D6DA201433</string>
+				<key>dateExpires</key>
+				<string>11/25/21</string>
+				<key>type</key>
+				<string>Apple Distribution</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>TC787YZ6GQ.com.etrans.etransmenext</string>
+				<key>aps-environment</key>
+				<string>production</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>TC787YZ6GQ</string>
+				<key>get-task-allow</key>
+				<false/>
+			</dict>
+			<key>name</key>
+			<string>eTransMe.iOS.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>f334f70b-e323-4883-9e8c-b562e3dc9ebd</string>
+				<key>name</key>
+				<string>etransmenext_adhok</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>TC787YZ6GQ</string>
+				<key>name</key>
+				<string>Smart EMS LLC</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
